@@ -1,0 +1,24 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "Basic crud operation using Node, Express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharadhwaj-g/NODE-REST-API.git"
+  },
+  "author": "Bharadwaja Gummadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharadhwaj-g/NODE-REST-API/issues"
+  },
+  "homepage": "https://github.com/bharadhwaj-g/NODE-REST-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.4"
+  }
+}
